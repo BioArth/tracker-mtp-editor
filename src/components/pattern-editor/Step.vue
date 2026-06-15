@@ -5,7 +5,7 @@
   //
   //---------------------------------------------------
   import { computed, PropType, ref } from 'vue';
-  import { FX, StepData } from 'tracker-lib';
+  import { FX, StepData } from '@polyend/tracker-lib';
   import { StepProperty } from '@/types/pattern-editor.ts';
 
   //---------------------------------------------------
