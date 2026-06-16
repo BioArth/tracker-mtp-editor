@@ -4,8 +4,9 @@ A web-based editor for creating and editing patterns for the **Polyend Tracker**
 
 **Live Demo:** https://polyend.sandroid.xyz/patterned/
 
-For a quick overview, check out this video:
-[link to youtube video]
+For a quickish overview, check out this youtube video:
+
+[![Watch the video](https://img.youtube.com/vi/6vzHuB2HkdE/0.jpg)](https://www.youtube.com/watch?v=6vzHuB2HkdE)
 
 ----
 
