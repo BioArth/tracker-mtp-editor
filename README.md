@@ -8,7 +8,6 @@ For a quickish overview, check out this youtube video:
 
 [![Watch the video](https://img.youtube.com/vi/6vzHuB2HkdE/0.jpg)](https://www.youtube.com/watch?v=6vzHuB2HkdE)
 
-----
 
 ## Features
 
@@ -16,14 +15,12 @@ For a quickish overview, check out this youtube video:
 * **Pattern File Support**: Uses `tracker-lib` to read/write Polyend Tracker pattern files.
 * **Full Keyboard Control**: I mean... you don't really want to use the mouse, do you? :stuck_out_tongue:
 
-----
 
 ## Technical Stack
 
 * [`tracker-lib`](http://github.com/polyend/tracker-lib) (handles read/write of `.mtp` files)
 * **Framework**: [Vue 3](https://vuejs.org/) (Composition API, `<script setup>`)
 
-----
 
 ## Getting Started
 
@@ -50,7 +47,6 @@ For a quickish overview, check out this youtube video:
 * `npm run lint`: Runs ESLint on source files.
 * `npm run typecheck`: Validates TypeScript without compiling.
 
-----
 
 ## Future plans
 
