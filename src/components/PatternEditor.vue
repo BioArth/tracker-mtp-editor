@@ -5,7 +5,7 @@
   //
   //---------------------------------------------------
   import { computed, nextTick, onBeforeUnmount, ref, useTemplateRef } from 'vue';
-  import Tracker, { PatternData, PatternFX } from '@polyend/tracker-lib';
+  import Tracker, { PatternData, PatternFX } from '@tbueno/tracker-lib';
   import {
     AttributeListItem,
     CursorIndex,
