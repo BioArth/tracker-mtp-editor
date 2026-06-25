@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": "./",
+    "baseUrl": "https://bioarth.github.io/tracker-mtp-editor/",
     "target": "esnext",
     "types": ["vite/client"],
     "useDefineForClassFields": true,
